@@ -27,7 +27,7 @@ if(isset($_POST['numero'])
 
     if(!is_null($venta)){
 
-        $dev = new Devolucion($_POST['numero']);
+        $dev = new Devolucion($_POST['numero'], $_POST['causa']);
         $cupon = new Cupon($_POST['numero']);
 
         if(!is_null($dev)){
