@@ -1,6 +1,6 @@
 <?php
 /*
-    ---------------------- PRIMER PARCIAL - PROGRAMACION III ----------------------
+    PRIMER PARCIAL - PROGRAMACION III 
     Fecha: 09/05/2022
 */
 
