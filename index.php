@@ -2,9 +2,6 @@
 /*
     ---------------------- PRIMER PARCIAL - PROGRAMACION III ----------------------
     Fecha: 09/05/2022
-    Nombres y Apellido: Valentin Tomás, Laplume
-    DNI: 42.544.147
-    Legajo: 111116
 */
 
 date_default_timezone_set('America/Argentina/Buenos_Aires');
