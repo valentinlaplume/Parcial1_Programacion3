@@ -46,6 +46,6 @@ if(isset($_POST['numero'])
 
 }
 else{
-    echo 'No fueron seteados valores por metodo DELETE en "borrarVenta.php". Verifique!!', PHP_EOL;
+    echo 'No fueron seteados valores por metodo POST en "DevolverHamburgesa.php". Verifique!!', PHP_EOL;
 }
 
